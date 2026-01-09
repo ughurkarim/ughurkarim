@@ -31,7 +31,7 @@ In the long term, I hope to turn my curiosity into impact by developing technolo
 
 ### 📫 Get in touch
 - 📧 Email: ughurkarim@ucla.edu  
-- 🌐 Portfolio: https://ughurkarim.github.io/website/
+- 🌐 Portfolio: https://ughurkarim.github.io/portfolio
 - 💼 LinkedIn: https://www.linkedin.com/in/ughurkarim
 
 Thanks for stopping by. Feel free to explore my projects!
