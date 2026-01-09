@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, my name is Ughur Karim
+I am a student at UCLA specializing in computer science and mathematics, currently focused on gaining experience in the field. I’m passionate about learning every day and working on full-stack projects. I primarily code in C++, but I'm also fluent in Java and Python. Outside of writing code, I enjoy going to the gym, reading books, watching soccer and basketball, and spending time with my little sister.
+
+One day, I hope to turn my curiosity into something impactful and useful in the world. I am open to any opportunity that allows me to grow, contribute, and make a difference.
+
+Contact: ughurkarim@ucla.edu
 
 <!--
 **ughurkarim/ughurkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
