@@ -12,7 +12,7 @@ In the long term, I hope to turn my curiosity into impact by developing technolo
 
 ---
 
-### 🔧 Technologies & Tools
+### Tech 💻
 - **Languages:** TypeScript, JavaScript, Python, C++, Java  
 - **Frontend:** React, Next.js, HTML, CSS  
 - **Backend:** Node.js, REST APIs, Prisma, PostgreSQL  
@@ -20,7 +20,7 @@ In the long term, I hope to turn my curiosity into impact by developing technolo
 
 ---
 
-### 🚀 Selected Work
+### Notable Work 👨‍💻
 - **spotiFeel** — a mood-based Spotify dashboard and playlist generator  
 - **Clash Royale Deck Builder** — a desktop application for optimized deck building  
 - **Bruin Food** — a UCLA-focused campus food discovery platform  
@@ -29,7 +29,7 @@ In the long term, I hope to turn my curiosity into impact by developing technolo
 
 ---
 
-### 📫 Get in touch
+### Contact 📫
 - 📧 Email: ughurkarim@ucla.edu  
 - 🌐 Portfolio: https://ughurkarim.github.io/portfolio
 - 💼 LinkedIn: https://www.linkedin.com/in/ughurkarim
