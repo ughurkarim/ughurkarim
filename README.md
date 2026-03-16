@@ -28,7 +28,7 @@ In the long term, I hope to turn my curiosity into impact by developing technolo
 - **Bias By Us** - a website made to teach kids about bias in Machine Learning Algorithms
 - **Quilly (Startup Work)** — full-stack web product development  
   🔗 https://postcardproject.vercel.app/
-- 🔗 https://complimentmachine.vercel.app/
+  🔗 https://complimentmachine.vercel.app/
 
 ---
 
