@@ -21,14 +21,19 @@ In the long term, I hope to turn my curiosity into impact by developing technolo
 ---
 
 ### Notable Work 👨‍💻
-- **spotiFeel** — a mood-based Spotify dashboard and playlist generator
+- **spotiFeel** — A mood-based Spotify dashboard and playlist generator  
   🔗 https://spoti-feel.vercel.app/
-- **Clash Royale Deck Builder** — a desktop application for optimized deck building
-- **Bruin Food** — a UCLA-focused campus food discovery platform
-- **Nomie** - a self-reflection screen time app
-- **Bias By Us** - a website made to teach kids about bias in Machine Learning Algorithms
-- **Quilly (Startup Work)** — full-stack web product development  
-  🔗 https://postcardproject.vercel.app/
+
+- **Clash Royale Deck Builder** — A desktop application for optimized deck building
+
+- **Bruin Food** — A UCLA-focused campus food discovery platform
+
+- **Nomie** — A self-reflection and screen-time tracking app
+
+- **Bias By Us** — A website designed to teach kids about bias in machine learning algorithms
+
+- **Quilly (Startup Work)** — Full-stack web product development  
+  🔗 https://postcardproject.vercel.app/  
   🔗 https://complimentmachine.vercel.app/
 
 ---
