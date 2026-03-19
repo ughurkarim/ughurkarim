@@ -23,7 +23,7 @@ In the long term, I hope to turn my curiosity into impact by developing technolo
 ### Notable Work 👨‍💻
 - **spotiFeel** — a mood-based Spotify dashboard and playlist generator
 - **Clash Royale Deck Builder** — a desktop application for optimized deck building
-  🔗 https://github.com/ughurkarim/ClashRoyaleDeckBuilder
+   🔗 https://github.com/ughurkarim/ClashRoyaleDeckBuilder
 - **Bruin Food** — a UCLA-focused campus food discovery platform
 - **Nomie** - a self-reflection screen time app
 - **Bias By Us** - a website made to teach kids about bias in Machine Learning Algorithms
