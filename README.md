@@ -1,46 +1,56 @@
-## Hi there 👋, my name is Ughur Karim
+<div align="center">
 
-I’m a UCLA student studying **Computer Science and Mathematics**, interested in building software that is thoughtful and genuinely useful.
+# Hey, I’m Ughur 👋
 
-Currently, I enjoy working as a full-stack software engineer. I’m especially drawn to projects that improve my skillset and shape into something useful. I care about clarity in both code and design, and I’m always striving to improve my approach to problem-solving.
+**UCLA Mathematics of Computation student and full-stack software engineer.**
 
-Over time, I’ve worked on full-stack web applications, database-backed systems, and desktop software. I’ve built projects using various technologies as well as lower-level languages, and I enjoy switching between them depending on the problem. I prefer learning by building, rather than just reading or following tutorials.
+I enjoy turning ideas into useful products and learning by building. I’ve worked on web applications, mobile apps, database-backed systems, and desktop software.
 
-Outside of programming, I enjoy weightlifting, running, reading books, watching soccer and basketball, and spending time with my little sister. I value balance and steady growth, and I try to bring that mindset into both my work and everyday life.
+🌐 [Portfolio](https://ughurkarim.github.io/portfolio) ·
+💼 [LinkedIn](https://www.linkedin.com/in/ughurkarim) ·
+📧 [Email](mailto:ughurkarim@g.ucla.edu)
 
-In the long term, I hope to turn my curiosity into impact by developing technology that helps people in meaningful ways. I’m always open to opportunities where I can learn, contribute, and grow as an engineer.
-
----
-
-### Tech 💻
-- **Languages:** TypeScript, JavaScript, Python, C++, Java  
-- **Frontend:** React, Next.js, HTML, CSS  
-- **Backend:** Node.js, REST APIs, Prisma, PostgreSQL  
-- **Tools & Platforms:** Git/GitHub, AWS, Vercel
+</div>
 
 ---
 
-### Notable Work 👨‍💻
-- **spotiFeel** — A mood-based Spotify dashboard and playlist generator  
-  🔗 https://spoti-feel.vercel.app/
+## 💼 Experience
 
-- **Clash Royale Deck Builder** — A desktop application for optimized deck building
+### Quilly — Lead Software Engineer / Software Engineer Intern
 
-- **Bruin Food** — A UCLA-focused campus food discovery platform
+Worked on full-stack products for creating and sharing digital postcards and personalized compliment cards.
 
-- **Nomie** — A self-reflection and screen-time tracking app
+💌 [Compliment Machine](https://complimentmachine.vercel.app/)
 
-- **Bias By Us** — A website designed to teach kids about bias in machine learning algorithms
+### Creative Labs — Software Engineer
 
-- **Quilly (Startup Work)** — Full-stack web product development  
-  🔗 https://postcardproject.vercel.app/  
-  🔗 https://complimentmachine.vercel.app/
+Worked on **Nomie**, an iOS digital-wellness app that uses screen-time insights and personalized recommendations to help users build healthier habits.
+
+📱 [View Nomie](https://github.com/MichaelSuarezR/Nomie)
 
 ---
 
-### Contact 📫
-- 📧 Email: ughurkarim@ucla.edu  
-- 🌐 Portfolio: https://ughurkarim.github.io/portfolio
-- 💼 LinkedIn: https://www.linkedin.com/in/ughurkarim
+## 🚀 Projects
 
-Thanks for stopping by. Feel free to explore my projects!
+| Project | Description |
+|---|---|
+| 🏆 [**Trophy XI**](https://trophyxi.com) | World Cup drafting and match-simulation game built with historical data, automated testing, and AWS infrastructure |
+| 🍽️ **Bruin Food** | UCLA dining and peer-to-peer food delivery platform |
+| 🎵 [**SpotiFeel**](https://spoti-feel.vercel.app/) | Spotify dashboard for music insights, playlists, lyrics, and recommendations |
+| ⚔️ [**Clash Royale Deck Builder**](https://www.youtube.com/watch?v=HkP-oIaV3Xc) | Desktop application for building and evaluating Clash Royale decks |
+| 🧠 [**Bias By Us**](https://bias-by-us.netlify.app/) | Educational website that teaches kids about bias in machine-learning algorithms |
+
+---
+
+## 💻 Tech
+
+**Languages:** TypeScript, JavaScript, Python, C++, C, Java, Swift  
+**Frontend:** React, Next.js, React Native, Expo, SwiftUI  
+**Backend & Data:** Node.js, Flask, PostgreSQL, Supabase, Prisma  
+**Tools:** AWS, CloudFront, Vercel, Vitest, Playwright, Git
+
+---
+
+## ♟️ Outside of Code
+
+I enjoy weightlifting, running, reading, playing chess, watching soccer and basketball, and spending time with my little sister.
